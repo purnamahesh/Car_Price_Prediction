@@ -24,35 +24,20 @@ Also, you need to build an appropriate predictive model for predicting the price
 |Column Name |	Description                        |
 |------------|-------------------------------------|
 |Sales_ID    |	Sales ID                           |
-|------------|-------------------------------------|
 |name        | 	Name of the used car               |
-|------------|-------------------------------------|
 |year        |	Year of the car purchase           |
-|------------|-------------------------------------|
 |km_driven   |	Total km driven                    |
-|------------|-------------------------------------|
 |Region      |	Region where it is used            |
-|------------|-------------------------------------|
 |State       |	State or Province where it is used |
-|------------|-------------------------------------|
 |City        | City where it is used               |
-|------------|-------------------------------------|
 |fuel        |	Fuel type                          |
-|------------|-------------------------------------|
 |seller_type |	Who is selling the car             |
-|------------|-------------------------------------|
 |transmission|	Transmission type of the car       |
-|------------|-------------------------------------|
 |owner	     | Owner type                          |
-|------------|-------------------------------------|
 |mileage	   | Mileage of the car                  |
-|------------|-------------------------------------|
 |engine	     | engine power                        |
-|------------|-------------------------------------|
 |max_power   |	max power                          |
-|------------|-------------------------------------|
 |seats       |	Number of seats                    |
-|------------|-------------------------------------|
 |sold        | 	used car sold or not               |
 
 
